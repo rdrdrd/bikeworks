@@ -7,8 +7,8 @@ To start out, you need to clone this repo
 
 ```bash
 cd some/root/directory/that/you/like
-git clone https://github.com/drfancipants/hackyHacking7.git
-cd hackyHacking7
+git clone https://github.com/rdrdrd/bikeworks.git
+cd bikeworks
 doStuff
 ```
 
