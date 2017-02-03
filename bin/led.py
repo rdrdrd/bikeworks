@@ -33,5 +33,5 @@ def cleanup(): RPi.GPIO.cleanup()
 
 if __name__ == '__main__':
     init(pin)
-    doit(blink, pin, delay)
+    doIt(blink, pin, delay)
     cleanup()
