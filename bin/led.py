@@ -2,7 +2,7 @@
 
 import RPi.GPIO, time, sys
 
-pin = 2
+pin = 4
 delay = 1.0
 blink = 10
 if len(sys.argv) == 2:
