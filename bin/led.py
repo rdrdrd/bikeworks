@@ -33,5 +33,8 @@ def cleanup(): RPi.GPIO.cleanup()
 
 if __name__ == '__main__':
     init(pin)
-    doIt(blink, pin, delay)
+    try:
+        doIt(blink, pin, delay)
+    except KeyboardInterrupt:
+        pass
     cleanup()
