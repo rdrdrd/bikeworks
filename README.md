@@ -1,5 +1,14 @@
 # Bikework repo
 
+## Running the camera program
+To run the camera demo, open a terminal window and type the following:
+
+```bash
+cd bikeworks/bin
+sudo ./pycam.py
+```
+
+
 # Git stuff
 
 ## Getting the initial clone of the repo
@@ -14,7 +23,7 @@ doStuff
 
 ## Getting updates
 ```bash
-git pull origin
+git pull origin master
 ```
 
 ## Pushing your changes to the repo
