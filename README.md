@@ -1,13 +1,29 @@
-# Bikework repo
+# Bikeworks repo
+
+## Notes
+The lines in the examples below that start with "#" are comment
+lines...they are not meant to be typed.
 
 ## Running the camera program
 To run the camera demo, open a terminal window and type the following:
 
 ```bash
+# move to the bikeworks/bin dir
 cd bikeworks/bin
+
+# run the program
 sudo ./pycam.py
 ```
 
+## Running the LED program
+
+```bash
+# if you are not in the bikeworks/bin dir
+cd bikeworks/bin
+
+# run the program
+sudo ./led.py
+```
 
 # Git stuff
 
