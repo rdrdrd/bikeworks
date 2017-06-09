@@ -13,6 +13,9 @@ cd bikeworks/bin
 
 # run the program
 sudo ./pycam.py
+
+# This will create a file called foo.jpg in that dir
+# Open a browser and open that file in that dir
 ```
 
 ## Running the LED program
