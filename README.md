@@ -39,6 +39,7 @@ doStuff
 
 ## Getting updates
 ```bash
+cd ~/bikeworks
 git pull origin master
 ```
 
